@@ -1,8 +1,15 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.weedshaker.twa",
-        "sha256_cert_fingerprints": ["F8:03:65:5E:12:58:19:DE:98:C5:85:FD:90:D1:F6:70:85:5C:70:E6:7C:C1:E5:2F:B7:06:6A:16:CE:15:FF:B2"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.weedshaker.twa",
+      "sha256_cert_fingerprints": [
+        "F8:03:65:5E:12:58:19:DE:98:C5:85:FD:90:D1:F6:70:85:5C:70:E6:7C:C1:E5:2F:B7:06:6A:16:CE:15:FF:B2",
+        "C3:5C:62:4F:4A:3D:35:BC:06:EC:10:B3:B6:E4:EA:20:4D:93:D2:65:46:DE:F2:E9:E0:D9:3B:9C:A7:BC:3C:EB"
+      ]
+    }
+  }
+]
